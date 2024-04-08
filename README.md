@@ -24,3 +24,8 @@ To be continued...
 1. Create multi project
 2. cart application
 3. star rating 
+
+
+# Pending
+
+1. name validation => check error why we are unable to implement this
