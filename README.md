@@ -19,6 +19,9 @@ case:2 => After Login there is a page which is mentioned like welcome to multi a
 
 
 
+
+
+
 To be continued...
 
 1. Create multi project
@@ -29,3 +32,12 @@ To be continued...
 # Pending
 
 1. name validation => check error why we are unable to implement this
+
+
+# Completed
+
+1. Navbar Created
+2. Path created for Components
+2. Sign In / Sign up form with validation (Regex)
+3. Authentication added in sign in & sign up form (Firebase)
+
