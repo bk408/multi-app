@@ -3,18 +3,18 @@
 case:1 =>
 
 NavBar should be visible
-Image in background in LogIn page
+Image in the background on the log-in page
 
 1. Login Form => Email Address & Password with authentication
-2. SignIn Form => userName, Email Address & Password with authentication
+2. SignIn Form => Username, Email Address & Password with authentication
 
-If user already have an account then he can Login if not then user need to click on create account.
+If the user already has an account then he can log in if not then the user needs to click on Create an account.
 
-Then user route to the signIn form and here user need to enter name, email & password.
+Then user routes to the sign-in form and here user needs to enter their name, email & password.
 
-This is conditional case.
+This is a conditional case.
 
-case:2 => After Login there is a page which is mentioned like welcome to multi app and If you want to use it then click on.
+case:2 => After Login there is a page that mentions welcome to multi-app and If you want to use it then click on it.
 
 
 
@@ -24,7 +24,7 @@ case:2 => After Login there is a page which is mentioned like welcome to multi a
 
 To be continued...
 
-1. Create multi project
+1. Create multi-project
 2. cart application
 3. star rating 
 
@@ -40,4 +40,5 @@ To be continued...
 2. Path created for Components
 2. Sign In / Sign up form with validation (Regex)
 3. Authentication added in sign in & sign up form (Firebase)
+4. Setup the store
 
