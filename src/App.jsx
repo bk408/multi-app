@@ -7,6 +7,7 @@ import { Provider } from "react-redux";
 import store from "./utils/store";
 
 import Body from "./components/Body";
+import Browse from "./components/Browse";
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Login />} />
+          <Route path="/browse" element={<Browse />} />
         </Routes>
       </BrowserRouter>
     </Provider>
